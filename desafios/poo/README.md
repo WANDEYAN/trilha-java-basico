@@ -2,7 +2,7 @@
 
 ## Modelagem e Diagramação de um Componente iPhone
 
-Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), elaborei uma diagramação das classes e interfaces utilizando uma ferramenta UML [Draw io](www.draw.io). Em seguida, implementei as classes e interfaces no formato de arquivos .java.
+Com base no vídeo de lançamento do iPhone de 2007 , elaborei uma diagramação das classes e interfaces utilizando uma ferramenta UML ( [Draw io](www.draw.io) ). Em seguida, implementei as classes e interfaces no formato de arquivos .java.
 
 você pode conferir tudo no meu [repositóri](https://github.com/WANDEYAN/trilha-java-basico)!
 
